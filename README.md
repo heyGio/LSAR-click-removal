@@ -1,6 +1,8 @@
 # LSAR-click-removal
 For an explanation of the algorithm, refer to this [presentation](https://github.com/heyGio/LSAR-click-removal/blob/c9008de91fb51302c6f3a325462df7d4df84865c/LSAR%20click%20removal.pdf).
 
+Project for the course of Sound Analysis, Synthesis and Processing.
+
 **Before restoration:**
 
 
