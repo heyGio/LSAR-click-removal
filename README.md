@@ -15,5 +15,5 @@ In the *results* folder you can find other restored sound files.
 ## How to use
 - Clone the repository
 - Open the *main.m* file in MATLAB
-- Change line 6 `[input, Fs] = audioread("input.wav");` by replacing `input.wav` with the path of the file you want to restor
+- Change line 6 `[input, Fs] = audioread("input.wav");` by replacing `input.wav` with the path of the file you want to restore
 - The restored version will be written in `restored.wav` 
