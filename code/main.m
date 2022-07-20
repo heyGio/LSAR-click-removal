@@ -3,7 +3,7 @@ clear; close all; clc;
 rng('default')
 
 % Reading audio input
-[input, Fs] = audioread("source_Muss_cut.wav");
+[input, Fs] = audioread("input.wav");
 input = input(:,1)'; % Considering only right channel
 
 
